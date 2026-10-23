@@ -1,7 +1,7 @@
 class PilaMundo:
 
     def __init__(self):
-        # La pila inicia con el mundo principal
+        
         self.pila = ["Mundo"]
 
     def entrar(self, lugar):
